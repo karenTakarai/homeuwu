@@ -12,7 +12,7 @@ use App\User;
 */
 
 Route::get('/', function () {
-    return view('landing');
+    return view('layouts/landing');
 });
 
 Auth::routes();
