@@ -12,8 +12,17 @@ use App\User;
 */
 
 Route::get('/', function () {
-    return view('layouts/landing');
+    return view('landing');
 });
+
+Route::get('dashboard', function () {
+    return view('layouts/dashboard');
+});
+
+Route::get('hoster', function () {
+    return view('hoster');
+});
+
 
 Auth::routes();
 

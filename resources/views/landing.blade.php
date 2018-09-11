@@ -6,12 +6,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="{{ asset('bootstrap/css/bootstrap-grid.min.css') }}" rel="stylesheet">
         <link href="{{ asset('bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
-        <link href="{{ asset('css/modern-business.css') }}" rel="stylesheet">
+        <link href="{{ asset('css/landing.css') }}" rel="stylesheet">
         <title>HomeUWU</title>
     </head>
    
     <body>
-       @include('navbar')
+       @include('components.navbar')
        <header>
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
               <ol class="carousel-indicators">
