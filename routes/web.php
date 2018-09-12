@@ -23,6 +23,14 @@ Route::get('hoster', function () {
     return view('hoster');
 });
 
+Route::get('places', function () {
+    return view('places');
+});
+
+Route::get('newplace', function () {
+    return view('newplace');
+});
+
 
 Auth::routes();
 

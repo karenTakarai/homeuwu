@@ -29,7 +29,7 @@
                     <a href="hoster">Shortcuts</a>
                 </li>
                 <li>
-                    <a href="#">Overview</a>
+                    <a href="places">Overview</a>
                 </li>
                 <li>
                     <a href="#">Events</a>
