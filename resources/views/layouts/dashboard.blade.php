@@ -13,31 +13,11 @@
         <div id="wrapper" class="toggled">
             <div id="sidebar-wrapper">
                 <ul class="sidebar-nav">
-                    <li class="sidebar-brand">
-                        <a href="#">
-                            Start Bootstrap
-                        </a>
+                    <li>
+                        <a href="hoster">Anfitrión</a>
                     </li>
                     <li>
-                        <a href="dashboard">Dashboard</a>
-                    </li>
-                    <li>
-                        <a href="hoster">Shortcuts</a>
-                    </li>
-                    <li>
-                        <a href="places">Overview</a>
-                    </li>
-                    <li>
-                        <a href="#">Events</a>
-                    </li>
-                    <li>
-                        <a href="#">About</a>
-                    </li>
-                    <li>
-                        <a href="#">Services</a>
-                    </li>
-                    <li>
-                        <a href="#">Contact</a>
+                        <a href="places">Alojamientos</a>
                     </li>
                 </ul>
             </div>
