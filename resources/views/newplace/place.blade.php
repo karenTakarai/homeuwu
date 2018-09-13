@@ -1,9 +1,6 @@
 @extends('layouts.newplace')
 @section('content')
-
-<div class="card description">
-    <div class="card-body">
-        <h1 class="card-title">Comentarios</h1>
+        <h1 class="card-title">Nuevo alojamiento</h1>
          <form>
             <h4 for="tipoalojamiento">Tipo de alojamiento</h4>
             <div class="form-group" id="tipoalojamiento">
@@ -26,8 +23,7 @@
               </select>
             </div>
         </form>
-    </div>
-    <button type="button" class="btn btn-secondary btn-sm">Small button</button>
-
-</div>
+        <div class="float-right">
+          <a type="button" class="btn btn-secondary btn-md" style="color:#fff" href="distribution">Siguiente</a>
+        <div>
 @endsection

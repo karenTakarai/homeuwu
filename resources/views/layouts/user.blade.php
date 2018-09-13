@@ -19,25 +19,13 @@
                         </a>
                     </li>
                     <li>
-                        <a href="dashboard">Dashboard</a>
+                        <a href="info">Perfil</a>
                     </li>
                     <li>
-                        <a href="hoster">Shortcuts</a>
+                        <a href="photos">Historial</a>
                     </li>
                     <li>
-                        <a href="places">Overview</a>
-                    </li>
-                    <li>
-                        <a href="#">Events</a>
-                    </li>
-                    <li>
-                        <a href="#">About</a>
-                    </li>
-                    <li>
-                        <a href="#">Services</a>
-                    </li>
-                    <li>
-                        <a href="#">Contact</a>
+                        <a href="evaluation">Seguridad</a>
                     </li>
                 </ul>
             </div>

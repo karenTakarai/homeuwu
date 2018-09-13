@@ -8,7 +8,7 @@
       <small>Secondary Text</small>
     </h1>
     <!-- Project One -->
-    <a href="newplace" class="btn btn-primary btn-lg" style="margin:15px 0" >Nuevo alojamiento</a>
+    <a href="place" class="btn btn-primary btn-lg" style="margin:15px 0" >Nuevo alojamiento</a>
     <div class="row">
       <div class="col-md-6">
         <a href="#">

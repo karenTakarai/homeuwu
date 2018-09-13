@@ -19,25 +19,16 @@
                         </a>
                     </li>
                     <li>
-                        <a href="dashboard">Dashboard</a>
+                        <a href="payment">Formas de pago</a>
                     </li>
                     <li>
-                        <a href="hoster">Shortcuts</a>
+                        <a href="historial">Historial</a>
                     </li>
                     <li>
-                        <a href="places">Overview</a>
+                        <a href="security">Seguridad</a>
                     </li>
                     <li>
-                        <a href="#">Events</a>
-                    </li>
-                    <li>
-                        <a href="#">About</a>
-                    </li>
-                    <li>
-                        <a href="#">Services</a>
-                    </li>
-                    <li>
-                        <a href="#">Contact</a>
+                        <a href="privacy">Privacidad</a>
                     </li>
                 </ul>
             </div>

@@ -27,10 +27,73 @@ Route::get('places', function () {
     return view('places');
 });
 
-Route::get('newplace', function () {
-    return view('newplace');
+Route::get('place', function () {
+    return view('newplace/place');
 });
 
+Route::get('distribution', function () {
+    return view('newplace/distribution');
+});
+
+Route::get('services', function () {
+    return view('newplace/services');
+});
+
+Route::get('location', function () {
+    return view('newplace/location');
+});
+
+Route::get('rules', function () {
+    return view('newplace/rules');
+});
+
+Route::get('agenda', function () {
+    return view('newplace/agenda');
+});
+
+Route::get('quotation', function () {
+    return view('newplace/quotation');
+});
+
+Route::get('main', function () {
+    return view('layouts/home');
+});
+
+Route::get('payment', function () {
+    return view('users/payment');
+});
+
+Route::get('security', function () {
+    return view('users/security');
+});
+
+Route::get('historial', function () {
+    return view('users/historial');
+});
+
+Route::get('privacy', function () {
+    return view('users/privacy');
+});
+
+Route::get('profile', function () {
+    return view('users/info');
+});
+
+Route::get('evaluation', function () {
+    return view('users/evaluation');
+});
+
+Route::get('info', function () {
+    return view('users/info');
+});
+
+Route::get('photos', function () {
+    return view('users/photos');
+});
+
+Route::get('placeview', function () {
+    return view('placeview');
+});
 
 Auth::routes();
 
